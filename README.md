@@ -1,4 +1,4 @@
-Hola bienvenido al GSTLabs StudyGroup, mi nombre es José Calderón Fundador de GSTPark, estoy muy emocionado de que podamos aprender en conjunto.
+Hola bienvenid@ a GSTLabs StudyGroup, mi nombre es José Calderón Fundador de GSTPark, estoy muy emocionado de que podamos aprender en conjunto.
 
 Es objetivo de este grupo es aprender a realizar un modelo de idioma español desde cero para SpeechToText.
 
