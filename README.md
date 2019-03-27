@@ -1,6 +1,8 @@
+***¿Qué es este grupo?***
+
 Hola bienvenid@ a GSTLabs StudyGroup, mi nombre es José Calderón Fundador de GSTPark, estoy muy emocionado de que podamos aprender en conjunto.
 
-Es objetivo de este grupo es aprender a realizar un modelo de idioma español desde cero para SpeechToText.
+Es objetivo de este grupo es aprender a realizar un modelo de idioma español desde cero para SpeechToText e iremos aprendiendo en el proceso.
 
 La idea es realizar una investigación relacionada con este tipo de tecnología y lo que se necesita para realizar como tal un modelo de lenguaje español que sea eficaz en el reconocimiento de voz y conversión a texto.
 
