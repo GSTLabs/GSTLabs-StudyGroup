@@ -1,6 +1,6 @@
 ***¿Qué es este grupo?***
 
-Hola bienvenid@ a GSTLabs StudyGroup, mi nombre es José Calderón de GSTPark, estoy muy emocionado de que podamos aprender en conjunto.
+Hola bienvenid@ a GSTLabs StudyGroup, mi nombre es José Calderón de GSTLabs, estoy muy emocionado de que podamos aprender en conjunto.
 
 El objetivo de este grupo es aprender a realizar un modelo de idioma español desde cero para SpeechToText e iremos aprendiendo en el proceso.
 
