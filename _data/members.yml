@@ -1,6 +1,14 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: José Calderón
+  affiliation: Líder de grupo de estudio
+  github: enterpreneur369
   interests:
     - Programming
     - Open Science
+    - Enterpreneurship
+    
+- name: Daniel Stevens
+  affiliation: Líder de grupo de estudio
+  github: 
+  interests:
+    - www.artlike.co
+    - Cultural Proyects Management
